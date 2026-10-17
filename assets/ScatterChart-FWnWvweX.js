@@ -1,0 +1,1 @@
+import{cf as a,x as t,Y as i,cg as s}from"./index-DfzfHe1O.js";import{S as e,Z as r}from"./Scatter-Bng_YNC3.js";var p=a({chartName:"ScatterChart",GraphicalChild:e,defaultTooltipEventType:"item",validateTooltipEventTypes:["item"],axisComponents:[{axisType:"xAxis",AxisComp:t},{axisType:"yAxis",AxisComp:i},{axisType:"zAxis",AxisComp:r}],formatAxisMap:s});export{p as S};
